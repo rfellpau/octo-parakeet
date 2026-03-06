@@ -1,1 +1,1 @@
-{"meta": {"timestamp": 1772565473}, "payload": [{"id": 1, "dsp": "RXTP", "vin": "WV1ZZZSYZL9041454", "vrns": "BV70XTL"}, {"id": 2, "dsp": "JHAL", "vin": "WV1ZZZ7H3RX033615", "vrns": "GF24DYO"}, {"id": 3, "dsp": "JHAL", "vin": "ZFAFFL006H5058839", "vrns": "YP67FKZ"}, {"id": 4, "dsp": "ALMD", "vin": "W1V9106332P285232", "vrns": "KP70ZNA"}]}
+{"meta": {"timestamp": 1772810920}, "payload": [{"id": 1, "dsp": "TEST", "vin": "ABCDEFGHIJ1234567", "reg": "AB01CDE"}]}
